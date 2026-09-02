@@ -81,7 +81,7 @@ File APK akan berada di folder: `build/app/outputs/flutter-apk/app-debug.apk`.
 
 ---
 
-## Fitur Utama Aplikasi
+## Fitur Utama Aplikasi :
 - **Katalog & Sewa**: Eksplorasi peralatan camping, pilih varian, sistem keranjang, dan sewa multi-item.
 - **Pembayaran DP (Midtrans)**: Integrasi Midtrans Snap untuk pembayaran uang muka (DP 50%) via Virtual Account / QRIS.
 - **Manajemen Pesanan**: Pelacakan status pesanan real-time dari *Menunggu DP*, *Menunggu Konfirmasi*, *Siap Diambil*, *Disewa*, hingga *Selesai*.
